@@ -1,3 +1,7 @@
+html{
+    margin: auto;
+}
+
 .header{
     background-color: CornflowerBlue;
     text-align: center;
@@ -27,6 +31,7 @@ h6,
 li{
     text-align:center;
 }
+
 
 
 
